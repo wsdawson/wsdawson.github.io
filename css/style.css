@@ -590,6 +590,9 @@ display:none;
 
 }
 
+.block-wrapper {
+padding: 0px px !important;
+}
 
 
 
