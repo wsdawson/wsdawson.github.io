@@ -578,6 +578,9 @@ height: auto !important;
 display:none;
 }
 
+#row2 {
+height: auto;}
+
 #row3 {
 height: auto !important;
 }
