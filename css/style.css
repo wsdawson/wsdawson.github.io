@@ -575,7 +575,7 @@ height: auto !important;
 }
 
 .block_bg {
-width:100%;
+display:none;
 }
 
 #row3 {
@@ -583,7 +583,7 @@ height: auto !important;
 }
 
 .block_bg2 {
-width:100%;
+display:none;
 }
 
 .img_container {height:100% !important;}
