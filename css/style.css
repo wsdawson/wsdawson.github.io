@@ -580,6 +580,8 @@ width:100%;
 
 @media screen and (max-width: 767px) {
 
+.intro2 > .scrollTo {display:none;} 
+
 .hero {
 height:auto;}
 
