@@ -63,8 +63,9 @@ font-family: 'Muli', sans-serif;
   color: #000;
   margin: 15px 0px;
   text-decoration: none;
-  font-size: 1em;
+  font-size: 1.2em;
   display: block;
+  transition: 0.3s;
 }
 
 /* Style the hamburger menu */
@@ -79,8 +80,10 @@ font-family: 'Muli', sans-serif;
 
 /* Add a grey background color on mouse-over */
 .topnav a:hover {
-  background-color: #;
-  color: black;
+color: #999;
+  text-decoration:underline;
+
+  transition: 0.3s;
 }
 
 /* Style the active link (or home/logo) */
