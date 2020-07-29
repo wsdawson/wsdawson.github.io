@@ -275,7 +275,7 @@ height: 90vh;
 
 #row2 {
   background: url('../img/lloyds/lloydshero.jpg');
-background-color:#;
+background-color:#728370;
 background-size: cover;
 width:100%;
 position:relative;
@@ -532,7 +532,24 @@ background-color:#fff;}
 
 
 
+.about-outer {
+background:url('../img/bg-hero-4.jpg');
+background-size:cover;
+background-position:center;
+height:auto;
+width:100%;
+padding:100px;
+}
 
+.about-inner {
+background:#fff;
+margin:0 auto;
+padding:50px;
+overflow:auto;
+}
+
+.about-inner h3 {
+}
 
 
 /*PROJECT PAGE*/
