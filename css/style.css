@@ -685,6 +685,12 @@ width:100%;
 
 .intro2 > .scrollTo {display:none;} 
 
+
+.intro2 h1 {
+font-size:4rem;
+line-height:5rem;
+}
+
 .hero {
 height:auto;}
 
