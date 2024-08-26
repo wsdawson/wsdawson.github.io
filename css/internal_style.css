@@ -1,9 +1,9 @@
 body {
-background-color: #fff;
+background-color: #000;
 color:#000;
 
 font-family: 'Roboto', sans-serif;
-font-weight:300;
+font-weight:400;
 }
 
   .navblock {
@@ -17,7 +17,7 @@ padding-top:50px;
 padding-bottom:100px;}
 
 .kycf .hero {
-  background:rgb(239 231 227);
+  background#fff;
   height:auto;
 }
 
@@ -43,6 +43,8 @@ padding-bottom:0px;}
 }
 
 
+
+
 .copywrapper {
 
   padding-top:150px;
@@ -53,6 +55,9 @@ padding-bottom:0px;}
 width:100%; 
 overflow:hidden;
 }
+
+.row1 {
+background-color:#fff;}
 
 .copywrapper img {
 width:100%;
